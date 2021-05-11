@@ -1,5 +1,6 @@
 # DSBA_TSF_GRIPMAY2021_
 This Data Science & Business Analytics repository is created as a part of Graduate Rotational Internship Program offered By TSF (The Sparks Foundation)
+
 TASK 1 - Prediction using Supervised ML 
     ●  Predict the percentage of an student based on the no. of study hours. 
     ● This is a simple linear regression task as it involves just 2 variables.
